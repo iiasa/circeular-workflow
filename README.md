@@ -1,33 +1,21 @@
-# Scenario Explorer Workflow Template
+# CircEUlar scenario processing workflows 
 
-Copyright 2022-2024 IIASA
+Copyright 2025- IIASA and the project consortium
 
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-## Setup
-
-- Create a repository using this template.
-- Add two webhooks in `<workflow-name>-workflow` repository:
-
-  ```
-  Payload URL 1: https://builds.ece.iiasa.ac.at/generic-webhook-trigger/invoke?token=uSnGsckCqQ6z6EMCxXCFyTDPpvmp8MyDnBcu2bHoSB7VdKjn
-  Payload URL 2: https://next-builds.ece.iiasa.ac.at/generic-webhook-trigger/invoke?token=uSnGsckCqQ6z6EMCxXCFyTDPpvmp8MyDnBcu2bHoSB7VdKjn
-  Content type: application/json
-  Secret: Passbolt Jenkins HMAC Secret
-  ```
-- Add `ece-scenario-services-team` as collaborators with `Admin` role in the settings of the repository and remove your personal access if you are part of the team.
-
 ## Overview
 
-This is a template for project-specific scenario processing workflows.
+CircEUlar is a project funded by the Horizon Europe research and innovation programme.
+Visit https://circeular.org for more information!
 
-To use this template for a project, do the following:
-- Create a new repository from this template
-- Update the title and overview section of this Readme
-- Start adding definitions and mappings 
-- If you want to use the [common-definitions](https://github.com/IAMconsortium/common-definitions)
-  developed and maintained by the IAMC, rename the file `nomenclature_template.yaml`
-  to `nomenclature.yaml`.
+This workflow repository includes the workflow for scenario processing and validation
+using the database infrastructure developed by the IIASA Scenario Services &
+Scientific Software team. Read more at https://docs.ece.iiasa.ac.at!
+
+## Using this repository
+
+The complete project template can be downloaded here: <https://files.ece.iiasa.ac.at/circeular/circeular-template.xlsx>.
 
 ### Project nomenclature
 
