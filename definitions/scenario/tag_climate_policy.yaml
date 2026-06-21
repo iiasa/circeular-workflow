@@ -1,0 +1,17 @@
+- Climate Policy:
+    - No Policy:
+        description: "no policy baseline that assumes no further strengthening of climate policy beyond the status quo"
+    - Current Policies:
+        description: "current climate policies including extrapolation of ambition into the future"
+    - Net-Zero:
+        description: "implementation of unconditional NDCs until 2030 and net-zero targets"
+    - Likely 2C:
+        description: "carbon budget consistent with likely peak warming of 2C above pre-industrial levels"
+    - 2C price x2:
+        description: "carbon price sensitivity that doubles the carbon price of the pathway with carbon budget consistent with likely peak warming of 2C above pre-industrial levels"
+    - 2C price x4:
+        description: "carbon price sensitivity that quadruples the carbon price of the pathway with carbon budget consistent with likely peak warming of 2C above pre-industrial levels"
+    - 2C price x8:
+        description: "carbon price sensitivity with 8-fold carbon price of the pathway with carbon budget consistent with likely peak warming of 2C above pre-industrial levels"
+    - 2C price x16:
+        description: "carbon price sensitivity with 16-fold the carbon price of the pathway with carbon budget consistent with likely peak warming of 2C above pre-industrial levels"

@@ -1,0 +1,11 @@
+- Digitalization:
+    - Reference:
+        description: "high ICT sector demand development"
+    - Enable-Cautious:
+        description: "Cautious impact estimates of digital applications deployment enabling faster and cheaper emission reductions"
+    - Enable-Extreme:
+        description: "Extreme impact estimates of digital applications deployment enabling faster and cheaper emission reductions"
+    - Undermine-Cautious:
+        description: "Cautious impact estimates of digital applications deployment undermining emission reduction efforts"
+    - Undermin-Extreme:
+        description: "Extreme impact estimates of digital applications deployment undermining emission reduction efforts"
