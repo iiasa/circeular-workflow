@@ -1,0 +1,11 @@
+- Circular Economy:
+    - No Circular:
+        description: "default pathway without additional circular econonmy strategies"
+    - Narrow:
+        description: "pathway with focus on narrow strategies"
+    - Slow:
+        description: "pathway with focus on slow strategies"
+    - Close:
+        description: "pathway with focus on close strategies"
+    - Circular:
+        description: "circular pathway with combined narrow-slow-close strategies implemented"
