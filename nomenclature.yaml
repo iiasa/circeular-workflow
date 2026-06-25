@@ -14,9 +14,10 @@ definitions:
         - hierarchy: R10
         - hierarchy: G20 Members
         - hierarchy: Regional Organizations
-#        - hierarchy: add model-hierarchy
-#mappings:
-#  repository:
-#    name: common-definitions
-#    include:
-#      - .. add model-specific region mapping ..
+        - hierarchy: MESSAGEix-GLOBIOM-GAINS 2.1-R12
+mappings:
+  repository:
+    name: common-definitions
+    include:
+      - MESSAGEix-GLOBIOM-GAINS 2.1-BMT-R12
+      - MESSAGEix-GLOBIOM-GAINS 2.1-M-R12
